@@ -1,0 +1,4 @@
+# I didn't add those that I found were used during the course (like numpy, matplotlib, etc.)
+scikit-learn
+pandas
+scipy
